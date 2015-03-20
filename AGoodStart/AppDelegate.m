@@ -15,8 +15,16 @@
 @implementation AppDelegate
 
 
+
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    //NSString *name = @"Sarah";
+    
+    NSLog(@"Hello World");
+    //NSLog(@"Name = %@", name);
+    
     return YES;
 }
 
